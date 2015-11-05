@@ -27,5 +27,4 @@ public class TestServer {
             // SevSock.close(); //close socket.
         }
     }
-
 }
