@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NetCentric.iml" filepath="$PROJECT_DIR$/NetCentric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetCentricClient/NetCentricClient.iml" filepath="$PROJECT_DIR$/NetCentricClient/NetCentricClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetCentricServer/NetCentricServer.iml" filepath="$PROJECT_DIR$/NetCentricServer/NetCentricServer.iml" />
+    </modules>
+  </component>
+</project>
